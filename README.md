@@ -6,6 +6,8 @@ So, I have attached a database snaps on how the database should be or i would ha
 
 Now as i am very humble below is the link to the google drive where you can find the code full, again if github does some shit and prevents you from downloading, and because i couldn't upload the package file here, and i know you people won't be able to download that also.
 
+https://drive.google.com/drive/folders/1jI6klfqtelNeAXuLXT1rrSCoYj5A-AnP?usp=sharing
+
 And ya i copy pasted all this readme.md from my previous post, ha ha not funny
 
 # CIAO
